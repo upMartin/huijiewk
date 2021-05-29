@@ -36,6 +36,7 @@ public class test {
         }
         String a = "";
         String b = "bbb";
+        String d = "ddd";
     }
 }
 
