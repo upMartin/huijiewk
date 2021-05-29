@@ -23,18 +23,20 @@ import com.huijie.model.SZTagCollector;
 
 
 public class test {
-	@SuppressWarnings("unused")
-	private static final double Number=-100;
-	public static void main(String[]args) throws Exception   {
-	  double num=-100;
-	  double num2=-100;
-	  if (num==Number||num2==Number  ) {
-		  System.out.println(1111);
-	  }else {
-		  System.out.println(2222);
-	  }
-	  String a = "";
-}
+    @SuppressWarnings("unused")
+    private static final double Number = -100;
+
+    public static void main(String[] args) throws Exception {
+        double num = -100;
+        double num2 = -100;
+        if (num == Number || num2 == Number) {
+            System.out.println(1111);
+        } else {
+            System.out.println(2222);
+        }
+        String a = "";
+        String b = "bbb";
+    }
 }
 
 
