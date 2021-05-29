@@ -33,7 +33,7 @@ public class test {
 	  }else {
 		  System.out.println(2222);
 	  }
-				
+	  String a = "";
 }
 }
 
