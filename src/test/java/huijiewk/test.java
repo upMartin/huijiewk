@@ -37,7 +37,7 @@ public class test {
         String a = "";
         String b = "bbb";
         String c = "ccc";
-        String d = "ddd";
+        String d = "dddddd";
     }
 }
 
